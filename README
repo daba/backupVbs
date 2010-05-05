@@ -1,0 +1,7 @@
+THIS IS A BACK-UP script(VBS)
+
+(working directory)/kanri-table.xls  --(back-up)-->>
+-->  (working directory)/backup/kanri-table_yyyymmdd.xls
+
+[to do]
+alert if kanri-table_yyyymmdd.xls is already exit.
